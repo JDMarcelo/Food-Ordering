@@ -1,0 +1,18 @@
+/* Custom styles for menu items */
+.menu-item {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .menu-item img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Additional styling for form */
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
